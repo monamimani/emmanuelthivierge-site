@@ -1,0 +1,6 @@
+baseURL = "http://emmanuelthivierge.com/"
+languageCode = "en-us"
+title = "Emmanuel Thivierge personnal den"
+
+[Params]
+Author = "Emmanuel Thivierge"
