@@ -1,6 +1,24 @@
-baseURL = "http://emmanuelthivierge.com/"
+baseurl = "http://emmanuelthivierge.com"
+title = "Emmanuel Thivierge personal site"
+theme = "dimension"
 languageCode = "en-us"
-title = "Emmanuel Thivierge personnal den"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
 
-[Params]
-Author = "Emmanuel Thivierge"
+[params]
+  title = "Emmanuel Thivierge personal site"
+  description = '<!--[--> Here you can learn some basic information about me<!--]--><br />
+                <!--[-->as well as see some of my work and personnal exploration!<!--]-->'
+  logo = "fa-home"
+  copyright = "Emmanuel Thivierge"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/emmanuelthivierge/"
