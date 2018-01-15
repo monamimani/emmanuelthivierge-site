@@ -23,3 +23,5 @@ draft: false
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
+
+{{< socialLinks >}}

@@ -18,10 +18,10 @@ disableKinds=["RSS"]
 
 [[params.social]]
   medium = "github"
-  icon = "fa-github"
+  icon = "github"
   link = "https://github.com/monamiman"
 
 [[params.social]]
   medium = "linkedin"
-  icon = "fa-linkedin"
+  icon = "linkedin"
   link = "https://www.linkedin.com/in/emmanuelthivierge/"
