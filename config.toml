@@ -1,6 +1,7 @@
 baseurl = "http://emmanuelthivierge.com"
 title = "Emmanuel Thivierge personal site"
 description = "Emmanuel Thivierge | Creative engineering; This site is the writings of my journey from a C++ 3D graphics programmer to a creative coder that use code to create interactive and immersive experiences and installations."
+googleAnalytics = "UA-112425681-1"
 
 theme = "dimension"
 languageCode = "en-us"
