@@ -1,6 +1,6 @@
 baseurl = "http://emmanuelthivierge.com"
 title = "Emmanuel Thivierge personal site"
-description = "Emmanuel Thivierge | Creative engineering; This site is the writings of my journey from a C++ 3D graphics programmer to a creative coder that use code to create interactive and immersive experiences and installations."
+description = "Emmanuel Thivierge | Creative engineering; This site contains the writings of my journey from a C++ 3D graphics programmer to a creative coder that use code to create interactive and immersive experiences and installations."
 googleAnalytics = "UA-112425681-1"
 
 theme = "dimension"
@@ -11,7 +11,7 @@ disableKinds=["RSS"]
 
 [params]
   title = "Emmanuel Thivierge | Creative engineering"
-  description = '<!--[--> This site is the writings of my journey<!--]--><br />
+  description = '<!--[--> This site contains the writings of my journey<!--]--><br />
                 <!--[-->from a C++ 3D graphics programmer to a creative coder<!--]--><br />
                 <!--[-->that use code to create interactive and immersive experiences and installations.<!--]-->'
   logo = "fa-home"
@@ -20,7 +20,7 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "https://github.com/monamiman"
+  link = "https://github.com/monamimani"
 
 [[params.social]]
   medium = "linkedin"
